@@ -3,6 +3,21 @@
   
     
     <entry>
+      <title><![CDATA[eighth test post]]></title>
+      <url>/2018/01/31/8/</url>
+      <content type="html"><![CDATA[<p>this is a test post of auto deploy.<br>if u c this , it means the setup works.</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[seventh test post]]></title>
       <url>/2018/01/31/7/</url>
       <content type="html"><![CDATA[<p>this is a test post of auto deploy.<br>if u c this , it means the setup works.</p>
