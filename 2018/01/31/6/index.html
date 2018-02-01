@@ -292,6 +292,55 @@
         
 <div class="comments" id="comments">
     
+    
+<script type="text/javascript">
+    var disqus_shortname = 'linxuan';
+    var disqus_identifier = '2018/01/31/6/';
+    var disqus_title = "sixth test post";
+    var disqus_url = 'http://yoursite.com/2018/01/31/6/';
+    var disqus = {
+        load: function disqus() {
+            if (typeof DISQUS !== 'object') {
+                (function () {
+                    var s = document.createElement('script');
+                    s.async = true;
+                    s.type = 'text/javascript';
+                    s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+                }());
+                var eleSvg = document.getElementById("load-disqus");
+                if (eleSvg) {
+                    var _pEle = eleSvg.parentNode;
+                    if (_pEle) {
+                        _pEle.removeChild(eleSvg);
+                    }
+                }
+            }
+        }
+    }
+    (function () {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<script type='text/javascript'
+        src='//linxuan.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=1&avatar_size=32&excerpt_length=20&hide_mods=1'
+></script>
+
+
+    <div style="text-align:center;">
+        <button class="btn" id="load-disqus" onclick="disqus.load();">Load Disqus Comments</button>
+    </div>
+    <div id="disqus_thread">
+        <noscript>
+            Please enable JavaScript to view the
+            <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a>
+        </noscript>
+    </div>
+    
 
 </div>
 
