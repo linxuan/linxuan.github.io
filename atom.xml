@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://linxuan1986.com/"/>
   <updated>2018-02-01T00:41:44.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://linxuan1986.com/</id>
   
   <author>
     <name>Lynn</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>10th test post</title>
-    <link href="http://yoursite.com/2018/02/01/10/"/>
-    <id>http://yoursite.com/2018/02/01/10/</id>
+    <link href="http://linxuan1986.com/2018/02/01/10/"/>
+    <id>http://linxuan1986.com/2018/02/01/10/</id>
     <published>2018-02-01T00:41:47.792Z</published>
     <updated>2018-02-01T00:41:44.000Z</updated>
     
@@ -36,14 +36,14 @@
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://linxuan1986.com/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>9th test post</title>
-    <link href="http://yoursite.com/2018/01/31/9/"/>
-    <id>http://yoursite.com/2018/01/31/9/</id>
+    <link href="http://linxuan1986.com/2018/01/31/9/"/>
+    <id>http://linxuan1986.com/2018/01/31/9/</id>
     <published>2018-01-31T09:01:25.463Z</published>
     <updated>2018-01-31T09:01:21.000Z</updated>
     
@@ -60,14 +60,14 @@
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://linxuan1986.com/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>eighth test post</title>
-    <link href="http://yoursite.com/2018/01/31/8/"/>
-    <id>http://yoursite.com/2018/01/31/8/</id>
+    <link href="http://linxuan1986.com/2018/01/31/8/"/>
+    <id>http://linxuan1986.com/2018/01/31/8/</id>
     <published>2018-01-31T08:54:15.181Z</published>
     <updated>2018-01-31T08:54:11.000Z</updated>
     
@@ -84,14 +84,14 @@
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://linxuan1986.com/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>seventh test post</title>
-    <link href="http://yoursite.com/2018/01/31/7/"/>
-    <id>http://yoursite.com/2018/01/31/7/</id>
+    <link href="http://linxuan1986.com/2018/01/31/7/"/>
+    <id>http://linxuan1986.com/2018/01/31/7/</id>
     <published>2018-01-31T08:38:58.801Z</published>
     <updated>2018-01-31T08:38:55.000Z</updated>
     
@@ -108,14 +108,14 @@
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://linxuan1986.com/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>sixth test post</title>
-    <link href="http://yoursite.com/2018/01/31/6/"/>
-    <id>http://yoursite.com/2018/01/31/6/</id>
+    <link href="http://linxuan1986.com/2018/01/31/6/"/>
+    <id>http://linxuan1986.com/2018/01/31/6/</id>
     <published>2018-01-31T08:26:11.221Z</published>
     <updated>2018-01-31T08:26:07.000Z</updated>
     
@@ -132,14 +132,14 @@
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://linxuan1986.com/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>fifth test post</title>
-    <link href="http://yoursite.com/2018/01/31/fifth/"/>
-    <id>http://yoursite.com/2018/01/31/fifth/</id>
+    <link href="http://linxuan1986.com/2018/01/31/fifth/"/>
+    <id>http://linxuan1986.com/2018/01/31/fifth/</id>
     <published>2018-01-31T07:51:26.991Z</published>
     <updated>2018-01-31T07:51:21.000Z</updated>
     
@@ -156,14 +156,14 @@
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://linxuan1986.com/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>auto deploy to github</title>
-    <link href="http://yoursite.com/2018/01/31/hello/"/>
-    <id>http://yoursite.com/2018/01/31/hello/</id>
+    <link href="http://linxuan1986.com/2018/01/31/hello/"/>
+    <id>http://linxuan1986.com/2018/01/31/hello/</id>
     <published>2018-01-31T07:24:39.946Z</published>
     <updated>2018-01-29T06:30:33.000Z</updated>
     
@@ -180,14 +180,14 @@
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://linxuan1986.com/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2018/01/31/forth%20post/"/>
-    <id>http://yoursite.com/2018/01/31/forth post/</id>
+    <link href="http://linxuan1986.com/2018/01/31/forth%20post/"/>
+    <id>http://linxuan1986.com/2018/01/31/forth post/</id>
     <published>2018-01-31T07:24:37.542Z</published>
     <updated>2018-01-31T00:30:24.000Z</updated>
     
@@ -204,14 +204,14 @@
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://linxuan1986.com/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/01/25/hello-world/"/>
-    <id>http://yoursite.com/2018/01/25/hello-world/</id>
+    <link href="http://linxuan1986.com/2018/01/25/hello-world/"/>
+    <id>http://linxuan1986.com/2018/01/25/hello-world/</id>
     <published>2018-01-25T09:57:09.666Z</published>
     <updated>2018-01-25T02:59:46.720Z</updated>
     
