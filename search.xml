@@ -5,8 +5,23 @@
     <entry>
       <title><![CDATA[my hexo way]]></title>
       <url>/2018/02/02/my-hexo-way/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<p>this is a test.</p>
+]]></content>
       
+        <categories>
+            
+            <category> notes </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
         
     </entry>
     
