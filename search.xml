@@ -3,6 +3,29 @@
   
     
     <entry>
+      <title><![CDATA[域名坏了]]></title>
+      <url>/2018/03/20/%E5%9F%9F%E5%90%8D%E5%9D%8F%E4%BA%86/</url>
+      <content type="html"><![CDATA[<p> 这段时间域名没认证，一直没解析，还以为github pages坏了。。。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> notes </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[my hexo way]]></title>
       <url>/2018/02/02/my-hexo-way/</url>
       <content type="html"><![CDATA[<p>this is a test.</p>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://linxuan1986.com/"/>
-  <updated>2018-02-01T08:58:00.000Z</updated>
+  <updated>2018-03-20T01:57:00.000Z</updated>
   <id>http://linxuan1986.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>域名坏了</title>
+    <link href="http://linxuan1986.com/2018/03/20/%E5%9F%9F%E5%90%8D%E5%9D%8F%E4%BA%86/"/>
+    <id>http://linxuan1986.com/2018/03/20/域名坏了/</id>
+    <published>2018-03-20T01:57:46.000Z</published>
+    <updated>2018-03-20T01:57:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> 这段时间域名没认证，一直没解析，还以为github pages坏了。。。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; 这段时间域名没认证，一直没解析，还以为github pages坏了。。。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="notes" scheme="http://linxuan1986.com/categories/notes/"/>
+    
+    
+      <category term="blog" scheme="http://linxuan1986.com/tags/blog/"/>
+    
+      <category term="hexo" scheme="http://linxuan1986.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>my hexo way</title>
