@@ -50,8 +50,8 @@
   
     
     <entry>
-      <title><![CDATA[留言板]]></title>
-      <url>/about/index.html</url>
+      <title><![CDATA[tags]]></title>
+      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -62,8 +62,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[tags]]></title>
-      <url>/tags/index.html</url>
+      <title><![CDATA[留言板]]></title>
+      <url>/about/index.html</url>
       <content type="html"></content>
     </entry>
     
