@@ -72,6 +72,12 @@
   
     
     <entry>
+      <title><![CDATA[tags]]></title>
+      <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[categories]]></title>
       <url>/categories/index.html</url>
       <content type="html"></content>
@@ -80,12 +86,6 @@
     <entry>
       <title><![CDATA[留言板]]></title>
       <url>/about/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[tags]]></title>
-      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
