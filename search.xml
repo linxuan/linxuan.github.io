@@ -48,7 +48,7 @@
     
     <entry>
       <title><![CDATA[我的Hexo博客解决方案]]></title>
-      <url>/my-hexo-way/</url>
+      <url>/%E6%88%91%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</url>
       <content type="html"><![CDATA[<p>传说每一个博客的第一篇文章都是“如何搭建博客”。</p>]]></content>
       
         <categories>
@@ -72,6 +72,12 @@
   
     
     <entry>
+      <title><![CDATA[tags]]></title>
+      <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[留言板]]></title>
       <url>/about/index.html</url>
       <content type="html"></content>
@@ -80,12 +86,6 @@
     <entry>
       <title><![CDATA[categories]]></title>
       <url>/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[tags]]></title>
-      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
