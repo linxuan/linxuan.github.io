@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://linxuan1986.com/my-hexo-way/</loc>
+    
+    <lastmod>2018-07-19T01:04:00.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://linxuan1986.com/%E6%9B%B4%E6%8D%A2%E4%BA%86vps%E4%B8%8A%E7%9A%84%E5%90%8C%E6%AD%A5%E8%BD%AF%E4%BB%B6/</loc>
     
     <lastmod>2018-06-12T03:11:00.000Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://linxuan1986.com/categories/index.html</loc>
     
     <lastmod>2018-02-02T04:20:44.475Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://linxuan1986.com/my-hexo-way/</loc>
-    
-    <lastmod>2018-02-01T08:58:00.000Z</lastmod>
     
   </url>
   
